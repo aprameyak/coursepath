@@ -17,3 +17,7 @@ npm start
 ```
 
 Open `index.html`. API on port 3003.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
